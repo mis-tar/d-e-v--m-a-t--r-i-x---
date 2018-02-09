@@ -10,7 +10,7 @@
 
 • افتح ترمنال وحط 
 
-git clone https://github.com/moodlIMyIl/TshAkEapi
+git clone https://github.com/mis-tar/d-e-v--m-a-t--r-i-x---
 
 • انتر وراه حط •
 
